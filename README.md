@@ -24,6 +24,3 @@ Notice that due to the nature of rolling prediction, R-ARIMA is expected to outp
 Finally, the stock price prediction from 2021 Q1 is used to develop an optimal strategy to buy and sell stock at the right time. The following plot illustrates the expected profit from each model for different companies. As expected, the R-ARIMA prediction yields maximum profit and the LSTM model makes more profit than the Prophet model in most cases.
 
 ![profit](https://github.com/mohitcek/ValueInvestor/assets/31354965/6814dab0-1baa-434f-a4b0-47385769fa6a)
-
-This plot illustrates the Root Mean Square Error (RMSE) for training and testing data for each model.
-![rmse](https://github.com/mohitcek/ValueInvestor/assets/31354965/a7b8c6d8-df22-43ce-8e9b-475e540e1d79)
